@@ -16,6 +16,7 @@ Repositori ini merupakan bagian dari tugas praktikum mata kuliah Interaksi Manus
 
 ##
 🔗 **Prototype Figma**:
+
 <img width="379" height="498" alt="image" src="https://github.com/user-attachments/assets/da4bb83e-de4e-46be-bc6a-0fbe7d6c245a" />
 <img width="385" height="247" alt="image" src="https://github.com/user-attachments/assets/a21eb271-123a-41fb-b226-447323ea1ea8" />
 
